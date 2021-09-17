@@ -33,7 +33,7 @@ This example trains a super-resolution network on the [BSD300](https://www2.eecs
 
 ### Super Resolve
 
-`python super_resolve.py --input_image dataset/BSDS300/images/test/16077.jpg --model weights/epoch_30.pth --output_filename out.png --cuda`
+`python super_resolve.py --input_image dataset/BSDS300/images/test/16077.jpg --model weights/epoch_300.pth --output_filename out.png --cuda`
 
 **Original image:**
 
